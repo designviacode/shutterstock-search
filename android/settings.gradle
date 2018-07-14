@@ -1,0 +1,3 @@
+rootProject.name = 'shutterstock_demo'
+
+include ':app'
