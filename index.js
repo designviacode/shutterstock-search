@@ -1,3 +1,5 @@
 import { AppRegistry } from 'react-native';
-import App from './App';
-AppRegistry.registerComponent('shutterstocksearch', () => App);
+// ROOT
+import Root from './src/Root';
+
+AppRegistry.registerComponent('shutterstock_demo', () => Root);
